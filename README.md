@@ -1,6 +1,6 @@
 # 🧩 UnificaPDF - TCERR
 
-**UnificaPDF** é uma ferramenta criada para facilitar a união de documentos PDF no âmbito interno do **Tribunal de Contas do Estado de Roraima (TCERR)**, com foco nas atividades da **Secretaria de Avaliação e Monitoramento de Políticas Públicas**.
+**UnificaPDF** é uma ferramenta criada para facilitar a união de documentos PDF no âmbito interno nas atividades da **Secretaria de Avaliação e Monitoramento de Políticas Públicas**.
 
 > **Cidadania e Transparência**  
 > Simples, leve, funcional — sem necessidade de instalação do Python.
